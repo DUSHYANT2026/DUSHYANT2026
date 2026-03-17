@@ -54,14 +54,6 @@
 
 ## 🧬 About Me
 
-I'm a final-year Computer Science undergraduate at VIT, building at the intersection of **Web2, Web3, and AI** — and shipping things that real people actually use.
-
-Over the past few years I've gone from writing my first `Hello World` to deploying a full-stack EdTech platform with **500+ active users**, publishing a **peer-reviewed blockchain research paper** at an international conference, and earning an **IBM Blockchain Developer certification**. Along the way I've solved **1,500+ competitive programming problems** and hit the **Knight rank on LeetCode** — not to chase ratings, but because I genuinely enjoy the craft of problem-solving.
-
-My current obsession is the trust layer that Web3 unlocks — I built a **decentralized certificate issuance system** on Ethereum that eliminates credential fraud without needing any middleman. On the full-stack side, I care deeply about performance, clean architecture, and UX that doesn't make people feel dumb.
-
-When I'm not coding, I'm either reading about distributed systems, contributing to open source, or debugging something I definitely should've caught earlier ☕
-
 ```typescript
 const dushyant = {
   role:        "Final-Year B.Tech (CSE) @ Vellore Institute of Technology",
@@ -266,7 +258,10 @@ const dushyant = {
 <div align="center">
 
 <a href="https://drive.google.com/file/d/1QU9g2LuMKdfn01WM-maphHWqKVj7P3Jn/view?usp=sharing">
-  <img src="https://img.shields.io/badge/View%20My%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  <img src="https://img.shields.io/badge/View%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume"/>
+</a>
+<a href="https://github.com/DUSHYANT2026/RESUME">
+  <img src="https://img.shields.io/badge/Resume%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Resume Repo"/>
 </a>
 
 </div>
