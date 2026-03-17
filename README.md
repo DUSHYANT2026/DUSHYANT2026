@@ -19,6 +19,26 @@
 
 </div>
 
+<div align="center">
+
+<a href="mailto:dushyantpandit799@gmail.com">
+  <img src="https://img.shields.io/badge/Email-dushyantpandit799%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br/><br/>
+<a href="https://www.linkedin.com/in/dushyant-kumar-b8594a251/">
+  <img src="https://img.shields.io/badge/LinkedIn-Dushyant_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
+<a href="https://leetcode.com/u/Dushyant2026/">
+  <img src="https://img.shields.io/badge/LeetCode-Dushyant2026-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<br/><br/>
+<a href="https://www.geeksforgeeks.org/profile/dushyant2026">
+  <img src="https://img.shields.io/badge/GeeksForGeeks-dushyant2026-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+
+
 ---
 
 ## ⚡ Quick Stats
@@ -255,40 +275,5 @@ const dushyant = {
 | **Certified Blockchain Developer** | IBM | Blockchain / Web3 |
 | **Certified MERN Full-Stack Engineer** | Ethnus | Full-Stack Web |
 | **Published Research Author** | ICSRI 2024 | Blockchain + Healthcare |
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:dushyantpandit799@gmail.com">
-  <img src="https://img.shields.io/badge/Email-dushyantpandit799%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<br/><br/>
-<a href="https://www.linkedin.com/in/dushyant-kumar-b8594a251/">
-  <img src="https://img.shields.io/badge/LinkedIn-Dushyant_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<br/><br/>
-<a href="https://leetcode.com/u/Dushyant2026/">
-  <img src="https://img.shields.io/badge/LeetCode-Dushyant2026-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<br/><br/>
-<a href="https://www.geeksforgeeks.org/profile/dushyant2026">
-  <img src="https://img.shields.io/badge/GeeksForGeeks-dushyant2026-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<br/><br/>
-
----
-
-> *"The best way to predict the future is to build it."*
-> — Alan Kay
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:415a77,50:1b263b,100:0d1b2a&height=120&section=footer&fontColor=e0e1dd" />
 
 </div>
