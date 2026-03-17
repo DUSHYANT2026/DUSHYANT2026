@@ -7,13 +7,13 @@
 <a href="mailto:dushyantpandit799@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-dushyantpandit799-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/Dushyant-Kumar">
+<a href="https://www.linkedin.com/in/dushyant-kumar-b8594a251/">
   <img src="https://img.shields.io/badge/LinkedIn-Dushyant--Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
-  <img src="https://img.shields.io/badge/LeetCode-1725_Rating-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/Dushyant2026/">
+  <img src="https://img.shields.io/badge/LeetCode-1825_Rating-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/">
+<a href="https://www.geeksforgeeks.org/profile/dushyant2026?tab=activity">
   <img src="https://img.shields.io/badge/GeeksforGeeks-600+_Solved-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
 </a>
 
