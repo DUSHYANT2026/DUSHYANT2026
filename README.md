@@ -67,6 +67,20 @@ const dushyant = {
 };
 ```
 
+## 📄 Resume 
+
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/1QU9g2LuMKdfn01WM-maphHWqKVj7P3Jn/view?usp=sharing">
+  <img src="https://img.shields.io/badge/View%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume"/>
+</a>
+<a href="https://github.com/DUSHYANT2026/RESUME">
+  <img src="https://img.shields.io/badge/Resume%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Resume Repo"/>
+</a>
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -249,21 +263,3 @@ const dushyant = {
 <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=dushyant2026&theme=midnight-purple&hide_border=false&border=415a77&stroke=778da9&ring=e0e1dd&fire=FFA116&currStreakLabel=778da9&background=0d1b2a&sideLabels=e0e1dd&currStreakNum=e0e1dd&dates=778da9&sideNums=e0e1dd" />
 
 </div>
-
----
-
-## 📄 Resume 
-
-
-<div align="center">
-
-<a href="https://drive.google.com/file/d/1QU9g2LuMKdfn01WM-maphHWqKVj7P3Jn/view?usp=sharing">
-  <img src="https://img.shields.io/badge/View%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume"/>
-</a>
-<a href="https://github.com/DUSHYANT2026/RESUME">
-  <img src="https://img.shields.io/badge/Resume%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Resume Repo"/>
-</a>
-
-</div>
-
-
