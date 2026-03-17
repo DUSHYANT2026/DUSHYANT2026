@@ -17,27 +17,26 @@
   <img src="https://img.shields.io/github/followers/dushyant2026?style=for-the-badge&color=1b263b&labelColor=0d1b2a&label=FOLLOWERS" />
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
+<!-- Contact Badges -->
 <a href="mailto:dushyantpandit799@gmail.com">
   <img src="https://img.shields.io/badge/Email-dushyantpandit799%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<br/><br/>
+&nbsp;
 <a href="https://www.linkedin.com/in/dushyant-kumar-b8594a251/">
   <img src="https://img.shields.io/badge/LinkedIn-Dushyant_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<br/><br/>
+&nbsp;
 <a href="https://leetcode.com/u/Dushyant2026/">
   <img src="https://img.shields.io/badge/LeetCode-Dushyant2026-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<br/><br/>
+&nbsp;
 <a href="https://www.geeksforgeeks.org/profile/dushyant2026">
   <img src="https://img.shields.io/badge/GeeksForGeeks-dushyant2026-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
-
+</div>
 
 ---
 
@@ -54,6 +53,14 @@
 ---
 
 ## 🧬 About Me
+
+I'm a final-year Computer Science undergraduate at VIT, building at the intersection of **Web2, Web3, and AI** — and shipping things that real people actually use.
+
+Over the past few years I've gone from writing my first `Hello World` to deploying a full-stack EdTech platform with **500+ active users**, publishing a **peer-reviewed blockchain research paper** at an international conference, and earning an **IBM Blockchain Developer certification**. Along the way I've solved **1,500+ competitive programming problems** and hit the **Knight rank on LeetCode** — not to chase ratings, but because I genuinely enjoy the craft of problem-solving.
+
+My current obsession is the trust layer that Web3 unlocks — I built a **decentralized certificate issuance system** on Ethereum that eliminates credential fraud without needing any middleman. On the full-stack side, I care deeply about performance, clean architecture, and UX that doesn't make people feel dumb.
+
+When I'm not coding, I'm either reading about distributed systems, contributing to open source, or debugging something I definitely should've caught earlier ☕
 
 ```typescript
 const dushyant = {
