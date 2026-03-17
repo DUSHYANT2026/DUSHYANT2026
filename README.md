@@ -71,8 +71,7 @@ const dushyant = {
   competitive: "1,500+ problems · LeetCode Knight · HackerRank 5★",
   shipped:     "500+ real users in production",
   certs:       ["IBM Certified Blockchain Developer", "Ethnus MERN Full-Stack"],
-  contact:     "dushyantpandit799@gmail.com",
-  fun_fact:    "I debug smarter after midnight ☕",
+  contact:     "dushyantpandit799@gmail.com"
 };
 ```
 
@@ -95,7 +94,6 @@ const dushyant = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -108,13 +106,6 @@ const dushyant = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### ⛓️ Blockchain / Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![Truffle](https://img.shields.io/badge/Truffle-3FE0C5?style=for-the-badge&logo=truffle&logoColor=black)
-![Ganache](https://img.shields.io/badge/Ganache-E4A663?style=for-the-badge&logo=ethereum&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
 
 ### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -264,10 +255,6 @@ const dushyant = {
 <br/><br/>
 
 <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=dushyant2026&theme=midnight-purple&hide_border=false&border=415a77&stroke=778da9&ring=e0e1dd&fire=FFA116&currStreakLabel=778da9&background=0d1b2a&sideLabels=e0e1dd&currStreakNum=e0e1dd&dates=778da9&sideNums=e0e1dd" />
-
-<br/><br/>
-
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=dushyant2026&theme=tokyo-night&bg_color=0d1b2a&color=778da9&line=415a77&point=e0e1dd&area=true&hide_border=false&border_color=415a77&radius=6" />
 
 </div>
 
