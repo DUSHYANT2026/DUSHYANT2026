@@ -115,7 +115,7 @@
 
 | Platform | Metric | Level |
 |:---|:---:|:---:|
-| **LeetCode** | 1,500+ Solved · **1725 Max Rating** | 🏅 Knight |
+| **LeetCode** | 1,500+ Solved · **1825 Max Rating** | 🏅 Knight |
 | **GeeksforGeeks** | 600+ Solved | ⭐ Advanced DSA |
 | **HackerRank** | Problem Solving + Language badges | 🥇 Gold |
 
@@ -124,10 +124,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dushyant2026&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyant2026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   <br/>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=dushyant2026&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 ---
