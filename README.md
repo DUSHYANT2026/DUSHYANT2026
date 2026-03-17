@@ -260,9 +260,15 @@ const dushyant = {
 
 ---
 
-## 📄 Certifications
+## 📄 Resume & Certifications
 
 <div align="center">
+
+<a href="./Dushyant_kumar.pdf">
+  <img src="https://img.shields.io/badge/📄_Resume-View_/_Download-415a77?style=for-the-badge&logoColor=white" />
+</a>
+
+<br/><br/>
 
 | 🏅 Certification | 🏛️ Issuer | 🔗 Domain |
 |:---|:---:|:---:|
