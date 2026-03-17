@@ -17,9 +17,6 @@
   <img src="https://img.shields.io/badge/GeeksforGeeks-600+_Solved-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
 </a>
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=dushyant2026&style=flat-square&color=6e40c9&label=Profile+Views" />
-
 </div>
 
 ---
