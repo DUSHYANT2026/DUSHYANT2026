@@ -260,20 +260,15 @@ const dushyant = {
 
 ---
 
-## 📄 Resume & Certifications
+## 📄 Resume 
+
 
 <div align="center">
 
-<a href="./Dushyant_kumar.pdf">
-  <img src="https://img.shields.io/badge/📄_Resume-View_/_Download-415a77?style=for-the-badge&logoColor=white" />
+<a href="https://drive.google.com/file/d/1QU9g2LuMKdfn01WM-maphHWqKVj7P3Jn/view?usp=sharing">
+  <img src="https://img.shields.io/badge/View%20My%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
-<br/><br/>
-
-| 🏅 Certification | 🏛️ Issuer | 🔗 Domain |
-|:---|:---:|:---:|
-| **Certified Blockchain Developer** | IBM | Blockchain / Web3 |
-| **Certified MERN Full-Stack Engineer** | Ethnus | Full-Stack Web |
-| **Published Research Author** | ICSRI 2024 | Blockchain + Healthcare |
-
 </div>
+
+
