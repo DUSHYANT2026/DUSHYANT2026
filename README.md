@@ -40,18 +40,6 @@
 
 ---
 
-## ⚡ Quick Stats
-
-<div align="center">
-
-| 🎓 Education | 📍 Location | 💼 Status | 🔭 Focus |
-|:---:|:---:|:---:|:---:|
-| B.Tech CSE — VIT (GPA 8.4) | Gurugram, India | Open to Opportunities | Full-Stack + Web3 |
-
-</div>
-
----
-
 ## 🧬 About Me
 
 ```typescript
