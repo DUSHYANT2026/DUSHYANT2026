@@ -83,7 +83,6 @@ const dushyant = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -193,7 +192,6 @@ const dushyant = {
 - 🔒 Proposed a blockchain framework for secure patient data exchange
 - 📊 Comparative analysis of centralized vs decentralized health records
 - 🛡️ Addressed HIPAA-like privacy constraints using smart contracts
-- 🌍 Peer-reviewed and published in conference proceedings
 
 <br/>
 
