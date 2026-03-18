@@ -55,8 +55,9 @@ const dushyant = {
 };
 ```
 
-## 📄 Resume 
+---
 
+## 📄 Resume 
 
 <div align="center">
 
