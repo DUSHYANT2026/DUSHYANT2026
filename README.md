@@ -118,7 +118,7 @@ const dushyant = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 All About Coding
+### 🎓 [All About Coding](https://github.com/DUSHYANT2026/WEB-DSA)
 **EdTech Platform · Full-Stack**
 
 > A scalable learning platform for DSA & AI-ML that onboarded **500+ active students** in production.
