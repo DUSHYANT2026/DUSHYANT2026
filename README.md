@@ -139,7 +139,7 @@ const dushyant = {
 </td>
 <td width="50%" valign="top">
 
-### ⛓️ Xperia Blockchain
+### ⛓️ [Xperia Blockchain](https://github.com/DUSHYANT2026/NEWX)
 **Decentralized Certificate DApp · Web3**
 
 > A trustless, fraud-proof credential issuance system on Ethereum — zero middlemen.
@@ -162,7 +162,7 @@ const dushyant = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚨 Disaster Response Platform
+### 🚨 [Disaster Response Platform](https://github.com/DUSHYANT2026/newpro)
 **Crisis Backend · Real-time System**
 
 > A resilient crisis-response ecosystem with live environmental intelligence & donor tooling.
