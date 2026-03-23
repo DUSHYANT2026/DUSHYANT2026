@@ -40,7 +40,7 @@
 
 ---
 
-## 🧬 About Me
+## About Me
 
 ```typescript
 const dushyant = {
@@ -57,7 +57,7 @@ const dushyant = {
 
 ---
 
-## 📄 Resume 
+## Resume 
 
 <div align="center">
 
@@ -72,11 +72,11 @@ const dushyant = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🔤 Languages
+### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -84,14 +84,14 @@ const dushyant = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Cloud
+### Backend & Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -101,7 +101,7 @@ const dushyant = {
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-### 🔧 Tools & DevOps
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -112,13 +112,13 @@ const dushyant = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [All About Coding](https://github.com/DUSHYANT2026/WEB-DSA)
+### [All About Coding](https://github.com/DUSHYANT2026/WEB-DSA)
 **EdTech Platform · Full-Stack**
 
 > A scalable learning platform for DSA & AI-ML that onboarded **500+ active students** in production.
@@ -139,7 +139,7 @@ const dushyant = {
 </td>
 <td width="50%" valign="top">
 
-### ⛓️ [Xperia Blockchain](https://github.com/DUSHYANT2026/NEWX)
+### [Xperia Blockchain](https://github.com/DUSHYANT2026/NEWX)
 **Decentralized Certificate DApp · Web3**
 
 > A trustless, fraud-proof credential issuance system on Ethereum — zero middlemen.
@@ -162,7 +162,7 @@ const dushyant = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚨 [Disaster Response Platform](https://github.com/DUSHYANT2026/newpro)
+### [Disaster Response Platform](https://github.com/DUSHYANT2026/newpro)
 **Crisis Backend · Real-time System**
 
 > A resilient crisis-response ecosystem with live environmental intelligence & donor tooling.
@@ -183,7 +183,7 @@ const dushyant = {
 </td>
 <td width="50%" valign="top">
 
-### 📝 Published Research
+### Published Research
 **Blockchain in Healthcare · Conference Paper**
 
 > Presented at the **5th International Conference on Scientific Research & Innovation (ICSRI)**.
@@ -205,7 +205,7 @@ const dushyant = {
 
 ---
 
-## 🏆 Competitive Programming
+## Competitive Programming
 
 <div align="center">
 
@@ -237,7 +237,7 @@ const dushyant = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
